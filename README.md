@@ -15,3 +15,6 @@ Repo to learn and wrap winAPI functions.
 
 All these functions are in a [stb](https://github.com/nothings/stb)-style header only library [WinCommon.hpp](include/WinCommon.hpp)
 
+
+## References:
+- [winapi docs](https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list)
